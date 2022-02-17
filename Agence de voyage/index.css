@@ -1,0 +1,98 @@
+* {
+	margin:0px;
+	padding:0px;
+}
+
+nav ul{
+	    float:right;
+}
+nav li{
+	    display: inline;
+	    margin-right: 20px;
+	    list-style:none;
+        
+}
+a{
+	text-decoration: none;
+}
+header h1{
+	      margin-top:50px;
+}
+
+div{
+	 width: 940px;
+	 margin:0 auto;
+}
+
+.first{
+	   background:url(Images/main.jpg)center;
+	    height: 400px;
+}
+
+h2{
+	 text-align: center;
+	 margin: 50px;
+	 padding-top: 150px;
+}
+ strong{
+         font-size: 50px;
+ }     
+
+button{
+	    font-size: 20px;
+	    background:orange;
+	    display:block;
+	    margin:0 auto;
+	    border-radius: 5px;
+}
+
+button:hover {
+	           background:blue;
+}
+
+ .clear {
+ 	     clear:left;
+ }	      
+  	 
+
+.second ul{
+            margin:80px 0;
+            
+
+	     
+}
+
+    .second ul li{
+                    width:310px;
+                     float:left;
+                     text-align:center;
+                   list-style: none;     
+    	             padding-top: 200px;
+
+  	            
+  	           
+  	            
+                
+          }
+ .im1{
+ 	    background:url(images/steps-icon-1.png) no-repeat center;
+ }
+	 
+ .im2{
+ 	    background:url(images/steps-icon-2.png) no-repeat center;
+ }
+
+ 
+   .im3{
+ 	    background:url(images/steps-icon-3.png) no-repeat center;
+ }   
+
+ 
+  
+  
+   
+     
+  
+  
+  	       
+  
