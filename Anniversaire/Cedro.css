@@ -1,0 +1,107 @@
+*{
+	margin: 0px;
+	padding:0px;
+	
+
+
+    
+}
+
+
+#first nav ul{  
+	           text-align: center;
+	           margin-top:50px;
+	           background-color:#000000;
+	           font-size: 20px;
+	             height:100px;
+	              color:white;
+
+	     }
+#first nav ul a :hover{
+                    border:solid 2px white;
+
+}         
+	      
+         h3{
+         	float:right;
+
+
+         }
+
+         #C{
+         	float:left;
+         	font-size: 40px;
+         	font-family:"crete-round";
+         	color:yellow;
+
+         }
+         .d{
+         	background:#eeedf5;
+         	height:250px;
+            background-image:url(noel.jpg);
+         }
+         a{
+         	text-decoration: none;
+         	color: white;
+         }
+
+
+         	
+         
+     #first li{
+     	       
+     	        display: inline;
+     	        margin-right:80px;
+     	       
+
+     }
+     img{
+     	  float:left;
+     	  
+     }
+    ul select{
+    	display: inline block;
+	      
+
+	      
+    }
+    h2{
+        text-align: center;
+        padding: 23px;
+    }
+    .E{
+    	 padding-left:250px;
+    }
+    .button{
+    	background:orange;
+    	border-radius:3px;
+    }
+     .button:hover{
+    	background:blue;
+    }
+
+    footer{
+    		height: 90px;
+    
+
+    }
+     footer.Fin div{
+    	padding-top:280px;
+    	text-align:center;
+    	background-color:#eba434;
+    	color:white;
+    	font-size: 20px;
+   
+
+
+    
+           
+    
+    }
+
+    	
+    	
+    	 
+    	
+
+    	
