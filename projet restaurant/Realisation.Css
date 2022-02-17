@@ -1,0 +1,70 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+
+header{
+   
+   background-image:url("chef0.jpg");
+   height:100vh;
+
+  background-size:cover;
+  
+
+}
+header nav ul{
+	 background-color: #8034eb;
+      height: 80px;
+
+  text-transform: uppercase;
+
+}
+
+header nav ul li{
+            float:right;
+            display: inline;
+            margin-right:80px;
+            list-style: none;
+           
+            font-size: 20px;
+	      text-align:center;
+        
+         
+            color:white;
+
+}
+
+header nav ul li:hover{
+	 border:solid 2px;
+}
+
+#A{
+	float: left;
+	margin-left:100px;
+     font-weight: bold;
+     font-size: 50px;
+     color:yellow;
+	font-family:"crete-round";
+}
+#B{
+  margin-top:150PX;
+    margin-left:50px;
+  font-size:50px;
+}
+h1{
+    font-size:30px;
+     background-color: black;
+     float: left;
+}
+h2{
+   float: right;
+   color: white;
+}
+h4 small{
+  margin-top:50px;
+    
+  font-size: 40px;
+    margin-right:100px;
+   float:right;
+}
+
